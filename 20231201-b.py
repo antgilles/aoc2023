@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import math
 from aocd.models import Puzzle
 
 def preparestr(word):
